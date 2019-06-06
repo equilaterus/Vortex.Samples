@@ -2,4 +2,8 @@
 
 These sample projects illustrate how to use [Equilaterus.Vortex](https://equilaterus.github.io/Vortex/).
 
-* [ConcurrentOrdering](https://github.com/equilaterus/VortexSamples.ConcurrentOrdering): A complete project structure showing how to integrate Vortex with common ASP Core scenarios like EFCore Concurrency Conflicts. MVC and javascript + jQuery frontend.
+## Concurrent Ordering
+
+![Concurrent Ordering Vortex ASP Core Example](https://equilaterus.github.io/assets/img/vortex/concurrent-ordering.png)
+
+[ConcurrentOrdering](https://github.com/equilaterus/VortexSamples.ConcurrentOrdering) is a complete project structure showing how to integrate Vortex with common ASP Core scenarios like EFCore Concurrency Conflicts. MVC and javascript + jQuery frontend.
